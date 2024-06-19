@@ -22,7 +22,7 @@ export default function Home() {
               data-aos="fade-up"
               className="text-center text-gray-600 landing-para dark:text-gray-300"
             >
-              Just another somthing doesnt have any thing :(
+              Website is under development <span className="font-bold">COMMING SOON :)</span>
             </p>
           </div>
         </div>
